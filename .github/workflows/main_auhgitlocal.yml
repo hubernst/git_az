@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'auhgitlocal'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6C9463AB0C4C432085F26C14BBF6984F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9A2D3E78EF87466FA8764948E4F7F536 }}
