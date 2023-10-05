@@ -7,7 +7,7 @@ dash-daq==0.1.0
 dash-html-components==0.13.5
 dash-renderer==1.9.1
 dash-table==3.1.11
-flask==2.4
+flask==2.2.5
 Flask-Compress==1.14
 importlib-metadata==6.8.0
 itsdangerous==2.1.2
